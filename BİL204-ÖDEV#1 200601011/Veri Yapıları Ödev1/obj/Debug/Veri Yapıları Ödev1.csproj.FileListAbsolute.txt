@@ -1,0 +1,10 @@
+C:\Users\melik\source\repos\Veri Yapıları Ödev1\Veri Yapıları Ödev1\bin\Debug\Veri Yapıları Ödev1.exe.config
+C:\Users\melik\source\repos\Veri Yapıları Ödev1\Veri Yapıları Ödev1\bin\Debug\Veri Yapıları Ödev1.exe
+C:\Users\melik\source\repos\Veri Yapıları Ödev1\Veri Yapıları Ödev1\bin\Debug\Veri Yapıları Ödev1.pdb
+C:\Users\melik\source\repos\Veri Yapıları Ödev1\Veri Yapıları Ödev1\obj\Debug\Veri Yapıları Ödev1.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\Veri Yapıları Ödev1\Veri Yapıları Ödev1\obj\Debug\Veri_Yapıları_Ödev1.Form1.resources
+C:\Users\melik\source\repos\Veri Yapıları Ödev1\Veri Yapıları Ödev1\obj\Debug\Veri_Yapıları_Ödev1.Properties.Resources.resources
+C:\Users\melik\source\repos\Veri Yapıları Ödev1\Veri Yapıları Ödev1\obj\Debug\Veri Yapıları Ödev1.csproj.GenerateResource.cache
+C:\Users\melik\source\repos\Veri Yapıları Ödev1\Veri Yapıları Ödev1\obj\Debug\Veri Yapıları Ödev1.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\Veri Yapıları Ödev1\Veri Yapıları Ödev1\obj\Debug\Veri Yapıları Ödev1.exe
+C:\Users\melik\source\repos\Veri Yapıları Ödev1\Veri Yapıları Ödev1\obj\Debug\Veri Yapıları Ödev1.pdb
